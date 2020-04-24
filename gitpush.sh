@@ -1,5 +1,6 @@
 name='nhp-wolf359'
-comment=$1
+datetime=`date +%Y%m%d-%H%M`
+comment='update_'$datetime
 # gitpush.sh $name $comment
 # $name is the name of the repository, $comment is commit message
 
