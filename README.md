@@ -1,4 +1,4 @@
-# Step-by-step of how to run scripts for data taken for one day
+# Step-by-step of data calibration for one day
 
 #a='LOT20200422'  
 a=$1
